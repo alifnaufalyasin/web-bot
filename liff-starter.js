@@ -1,0 +1,2 @@
+liff.init()
+
